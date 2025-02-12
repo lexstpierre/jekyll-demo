@@ -7,8 +7,5 @@ Go to actions and update it
 Then you can go to Settings --> then pages --> then you'll have published your work!
 
 To help find a theme, you can look at github.com/pages-themes/
-Pick whichever floats your boat
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+Pick whichever floats your boat (you have to change it in the YML file)
 
