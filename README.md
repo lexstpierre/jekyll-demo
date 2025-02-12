@@ -9,3 +9,7 @@ Then you can go to Settings --> then pages --> then you'll have published your w
 To help find a theme, you can look at github.com/pages-themes/
 Pick whichever floats your boat (you have to change it in the YML file)
 
+To help add headers and editting the document, you can look up a markdown cheat sheet
+[title](https://www.markdownguide.org/cheat-sheet/)
+
+![alt text](DSC.png)
