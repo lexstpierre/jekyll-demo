@@ -5,3 +5,10 @@ Then push (publish) and it will update in Fetch
 Then go to desktop browser
 Go to actions and update it
 Then you can go to Settings --> then pages --> then you'll have published your work!
+
+To help find a theme, you can look at github.com/pages-themes/
+Pick whichever floats your boat
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
